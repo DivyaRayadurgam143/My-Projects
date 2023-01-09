@@ -37,8 +37,14 @@
   }
 }
 button{
-  padding:30px;
-  margin:6px;
+  padding:15px;
+  margin:4px;
+  background-color:darkkhaki;
+}
+.buttons{
+  padding:25px;
+  margin:5px;
+  background-color:#61dafb;
 }
 input[type="text"] {
   padding:10px;
